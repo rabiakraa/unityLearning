@@ -530,7 +530,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 341945149}
   m_LocalRotation: {x: 0.0000011050042, y: -0.710541, z: 0.000000035803534, w: 0.7036559}
-  m_LocalPosition: {x: 234.52176, y: 785.11, z: 190.31802}
+  m_LocalPosition: {x: 234.52176, y: 784.13, z: 190.31802}
   m_LocalScale: {x: 1, y: 1, z: 6.6378736}
   m_Children: []
   m_Father: {fileID: 0}
@@ -806,7 +806,7 @@ GameObject:
   - component: {fileID: 714871992}
   - component: {fileID: 714871991}
   m_Layer: 5
-  m_Name: Text
+  m_Name: puanYazisi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -828,7 +828,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -355.14, y: 217.82}
+  m_AnchoredPosition: {x: -355.14, y: 162.5}
   m_SizeDelta: {x: 249.53, y: 35.97}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &714871991
@@ -1114,7 +1114,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 930825667}
   m_LocalRotation: {x: 0.0000011050042, y: -0.710541, z: 0.000000035803534, w: 0.7036559}
-  m_LocalPosition: {x: 227.47224, y: 786.54, z: 190.24945}
+  m_LocalPosition: {x: 227.47224, y: 785.48, z: 190.24945}
   m_LocalScale: {x: 1, y: 1, z: 3.3618}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1798,7 +1798,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1753106339}
   m_LocalRotation: {x: 0.0000011050042, y: -0.710541, z: 0.000000035803534, w: 0.7036559}
-  m_LocalPosition: {x: 221.55246, y: 784.21, z: 190.19177}
+  m_LocalPosition: {x: 221.55246, y: 783.62, z: 190.19177}
   m_LocalScale: {x: 1, y: 1, z: 3.3618}
   m_Children: []
   m_Father: {fileID: 0}
